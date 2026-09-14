@@ -1,2 +1,2 @@
 # riksan-cahyowadi-hackathon-kelompok-7.github.io
-Tampilan Frontend dari Hackathon 1 Kelompok 7 Maxy Academy
+Tugas Hackathon 1 Maxy Academy, penerapan Redesign antarmuka Homespot.id dari perusahaan Bit Corp berdasarkan hasil Prototype tim UI/UX
